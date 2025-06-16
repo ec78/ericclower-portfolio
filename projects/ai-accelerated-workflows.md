@@ -11,16 +11,16 @@ This page highlights several ways I’ve applied custom GPTs, prompt engineering
 
 ---
 
-## 🧠 Key AI Implementations
+## Key AI Implementations
 
-### ✅ Custom GPT for Documentation Drafting
+### Custom GPT for Documentation Drafting
 Developed a custom GPT workflow that generates first-draft technical documentation directly from GAUSS source code. This has accelerated documentation turnaround and improved style consistency across functions.
 
 Referenced in: [GAUSS Documentation Hub](documentation-hub.md)
 
 ---
 
-### ✅ AI-Powered Blog and Content Strategy
+### AI-Powered Blog and Content Strategy
 Used AI tools to:
 - Automatically suggest internal links based on keywords and topics  
 - Generate outlines and drafts for tutorials and announcements  
@@ -30,7 +30,7 @@ Referenced in: [GAUSS Data Analytics Blog](analytics-blog.md)
 
 ---
 
-### ✅ Markdown & HTML Automation
+### Markdown & HTML Automation
 Applied AI models to quickly:
 - Convert drafts to clean Markdown and HTML
 - Standardize formatting across documentation and training pages
@@ -40,7 +40,7 @@ Referenced in: [GAUSS Data Analytics Blog](analytics-blog.md)
 
 ---
 
-### ✅ AI-Assisted Prompt Engineering for Code Generation
+### AI-Assisted Prompt Engineering for Code Generation
 Used targeted prompting and iterative refinement to:
 - Generate GAUSS code templates from user requests and product features  
 - Convert economic modeling logic into usable examples  
@@ -50,7 +50,7 @@ Referenced in: [TSPDLIB Library](tspdlib-library.md), [Analytics Blog](analytics
 
 ---
 
-## 💡 Looking Ahead
+## Looking Ahead
 
 Several of these workflows have been adopted informally by teammates, and I’m in the process of standardizing them for internal sharing. I see AI as a strategic tool—not a shortcut—and I’m committed to using it in ways that improve quality, reduce bottlenecks, and make complex tools more approachable.
 
