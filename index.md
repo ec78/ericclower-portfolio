@@ -16,6 +16,9 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 
 ## 🧰 Featured Projects
 
+- **[AI-Accelerated Workflows](projects/ai-accelerated-workflows.md)**  
+  A collection of tools and techniques I’ve developed using AI to streamline documentation, content creation, and code generation across multiple projects.
+  
 - **[GAUSS Video Onboarding Series](projects/onboarding-series.md)**  
   Collaborated in end-to-end development of instructional videos, including scripting, editing, and team management.
 
