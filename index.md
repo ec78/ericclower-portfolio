@@ -1,3 +1,8 @@
+---
+title: Home
+layout: default
+---
+
 # Eric Clower – Data Education & Analytics Portfolio
 
 Welcome! I’m a quantitative economist and education leader with over 20 years of experience in applied econometrics, statistical software, and training development. I specialize in translating complex technical tools into clear, accessible learning resources that support researchers, analysts, and organizations.
