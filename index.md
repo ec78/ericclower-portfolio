@@ -17,7 +17,7 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 ## 🧰 Featured Projects
 
 - **[GAUSS Video Onboarding Series](projects/onboarding-series.md)**  
-  Leading end-to-end development of instructional videos, including scripting, editing, and team management.
+  Collaborated in end-to-end development of instructional videos, including scripting, editing, and team management.
 
 - **[GAUSS `tspdlib` Library](projects/tspdlib-library.md)**  
   A case study in advanced client collaboration, open-source development, and targeted promotion.
