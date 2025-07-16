@@ -39,4 +39,3 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - [LinkedIn](https://www.linkedin.com/in/ericaclower/)
 - [GitHub](https://github.com/ec78)
 - [Email](mailto:eric.clower78@gmail.com)
-- [Download Résumé (PDF)](assets/pdf/resume-eric-clower.pdf)
