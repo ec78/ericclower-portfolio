@@ -21,6 +21,12 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - **[GAUSS `tspdlib` Library](projects/tspdlib-library.md)**  
   A case study in advanced client collaboration, open-source development, and targeted promotion.  
 
+- **[Time Series Modeling Tools in GAUSS](projects/time-series-gauss.md)**
+  Led the development and refinement of GAUSS’s time series modeling suite, including new state-space estimation for ARIMA/SARIMA, SVAR models with sign restrictions, and nonlinear tools like Markov-switching and threshold autoregression. Contributed both original model implementations and API improvements, and authored over 30 blog tutorials and a full suite of online documentation.
+  
+- **[GAUSS GitHub Collaboration Hub](projects/github-transition.md)**  
+  Led the creation of Aptech’s GitHub organization to support open-source libraries, online documentation, and private client collaborations, enabling modern workflows and expanding public access to GAUSS resources.
+
 ---
 
 ## 🎓 Technical Learning & Instructional Design
@@ -34,8 +40,7 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - **[GAUSS Data Analytics Blog](projects/analytics-blog.md)**  
   Authored educational content and tutorials that support users and market new features.
 
-- **[GAUSS GitHub Collaboration Hub](projects/github-transition.md)**  
-  Led the creation of Aptech’s GitHub organization to support open-source libraries, online documentation, and private client collaborations, enabling modern workflows and expanding public access to GAUSS resources.
+
 - **Live Office Hours & Technical Support**  
   Provide in-depth walkthroughs and real-time support for researchers and analysts.
 
