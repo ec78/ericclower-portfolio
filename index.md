@@ -24,7 +24,7 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - **[Time Series Modeling Tools in GAUSS](projects/time-series-gauss.md)**  
   Led the development and refinement of GAUSS’s time series modeling suite, including new state-space estimation for ARIMA/SARIMA, SVAR models with sign restrictions, and nonlinear tools like Markov-switching and threshold autoregression. Contributed both original model implementations and API improvements, and authored over 30 blog tutorials and a full suite of online documentation.
 
-- **[Estimation & Data Tools in GAUSS](projects/platform-tools.md)**
+- **[Estimation & Data Tools in GAUSS](projects/estimation-tools-gauss.md)**
   Contributed core functionality to the GAUSS platform including quantile regression, GMM, FGLS, robust standard errors (clustered, HAC), panel data cleaning tools, kernel density estimation, and more. Designed for extensibility and integrated with documentation and user tutorials.
 
 - **[GAUSS GitHub Collaboration Hub](projects/github-transition.md)**  
