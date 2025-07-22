@@ -31,6 +31,8 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - **[GAUSS Data Analytics Blog](projects/analytics-blog.md)**  
   Authored educational content and tutorials that support users and market new features.
 
+- **[GAUSS GitHub Collaboration Hub](projects/github-transition.md)**  
+  Led the creation of Aptech’s GitHub organization to support open-source libraries, online documentation, and private client collaborations, enabling modern workflows and expanding public access to GAUSS resources.
 ---
 
 ## 📫 Connect
