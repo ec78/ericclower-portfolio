@@ -5,7 +5,7 @@ layout: default
 
 # GAUSS Online Documentation Hub
 
-I manage and maintain the GAUSS Online Documentation Hub, the primary resource for all technical references and how-to content.
+I manage and maintain the [GAUSS Online Documentation Hub](https://docs.aptech.com/gauss/), the primary resource for all technical references and how-to content.
 
 As part of a major restructuring effort, I oversaw the migration of static PDF manuals to a searchable, online-first format. I increased the inclusion of practical examples for core functions, which led to a measurable reduction in support tickets and improved user satisfaction.
 

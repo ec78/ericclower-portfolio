@@ -3,7 +3,8 @@ title: Home
 layout: default
 ---
 
-# Eric Clower – Data Education & Analytics Portfolio
+# Eric Clower 
+## Building Analytical Products, Modeling Data, and Advancing Technical Learning
 
 Welcome! I'm a technical educator, product collaborator, and quantitative analyst with 20+ years of experience in applied econometrics and statistical software. I specialize in making complex modeling tools more accessible through thoughtful documentation, hands-on training, and strategic content development.
 
@@ -11,19 +12,21 @@ At Aptech Systems, I support the development and launch of GAUSS by leading all 
 
 This portfolio showcases selected projects that reflect my focus on bridging product design, user education, and analytics—whether that’s through open-source collaboration, onboarding media, or example-rich documentation.
 
+---
+
+## 📦 Product Development Projects
+- **[AI-Accelerated Workflows](projects/ai-accelerated-workflows.md)**  
+  A collection of tools and techniques I’ve developed using AI to streamline documentation, content creation, and code generation across multiple projects.
+
+- **[GAUSS `tspdlib` Library](projects/tspdlib-library.md)**  
+  A case study in advanced client collaboration, open-source development, and targeted promotion.  
 
 ---
 
-## 🧰 Featured Projects
-
-- **[AI-Accelerated Workflows](projects/ai-accelerated-workflows.md)**  
-  A collection of tools and techniques I’ve developed using AI to streamline documentation, content creation, and code generation across multiple projects.
+## 🎓 Technical Learning & Instructional Design
   
 - **[GAUSS Video Onboarding Series](projects/onboarding-series.md)**  
   Collaborated in end-to-end development of instructional videos, including scripting, editing, and team management.
-
-- **[GAUSS `tspdlib` Library](projects/tspdlib-library.md)**  
-  A case study in advanced client collaboration, open-source development, and targeted promotion.
 
 - **[Online Documentation Hub](https://docs.aptech.com/gauss/)**  
   Designed and managed a searchable, example-rich resource that reduced support load and improved user experience.
@@ -33,6 +36,9 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 
 - **[GAUSS GitHub Collaboration Hub](projects/github-transition.md)**  
   Led the creation of Aptech’s GitHub organization to support open-source libraries, online documentation, and private client collaborations, enabling modern workflows and expanding public access to GAUSS resources.
+- **Live Office Hours & Technical Support**  
+  Provide in-depth walkthroughs and real-time support for researchers and analysts.
+
 ---
 
 ## 📫 Connect
@@ -40,4 +46,3 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - [LinkedIn](https://www.linkedin.com/in/ericaclower/)
 - [GitHub](https://github.com/ec78)
 - [Email](mailto:eric.clower78@gmail.com)
-- [Download Résumé (PDF)](assets/pdf/resume-eric-clower.pdf)
