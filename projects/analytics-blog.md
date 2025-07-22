@@ -5,7 +5,7 @@ layout: default
 
 # GAUSS Data Analytics Blog
 
-I manage and write for the GAUSS Data Analytics Blog, a hub for tutorials, applied use cases, and new feature announcements.
+I manage and write for the [GAUSS Data Analytics Blog](https://www.aptech.com/blog/), a hub for tutorials, applied use cases, and new feature announcements.
 
 This blog plays a dual role in educating users and marketing new capabilities. I translate advanced modeling topics into accessible guides that support users, reduce support demand, and highlight product strengths.
 
