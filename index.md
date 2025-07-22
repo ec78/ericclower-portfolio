@@ -34,7 +34,7 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 - **[GAUSS Data Analytics Blog](projects/analytics-blog.md)**  
   Authored educational content and tutorials that support users and market new features.
 
-  - **Live Office Hours & Technical Support**  
+- **Live Office Hours & Technical Support**  
   Provide in-depth walkthroughs and real-time support for researchers and analysts.
 
 ---
