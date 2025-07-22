@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Eric Clower 
-## Data Education & Analytics Portfolio
+## Building Analytical Products, Modeling Data, and Advancing Technical Learning
 
 Welcome! I'm a technical educator, product collaborator, and quantitative analyst with 20+ years of experience in applied econometrics and statistical software. I specialize in making complex modeling tools more accessible through thoughtful documentation, hands-on training, and strategic content development.
 
