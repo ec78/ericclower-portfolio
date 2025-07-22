@@ -53,20 +53,20 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 
 Real-world applications of econometric modeling and data analysis, including forecasting, index computation, and custom methodology evaluation for clients and researchers.
 
-### Trilemma Index Computation
-Supported research by cleaning and integrating international financial and macroeconomic datasets. Computed multiple dimensions of the trilemma index using consistent time series techniques across countries and timeframes.
+- **Trilemma Index Computation**
+  Supported research by cleaning and integrating international financial and macroeconomic datasets. Computed multiple dimensions of the trilemma index using consistent time series techniques across countries and timeframes.
 
-### Inflation Forecasting with Commodity Price Aggregates
-Provided data processing, cointegration testing, and VECM/VAR/LARS estimation for a cross-country inflation forecasting study. Evaluated the forecasting power of global commodity price aggregates for five commodity-rich economies.
+- **Inflation Forecasting with Commodity Price Aggregates**
+  Provided data processing, cointegration testing, and VECM/VAR/LARS estimation for a cross-country inflation forecasting study. Evaluated the forecasting power of global commodity price aggregates for five commodity-rich economies.
 
-### Price Discovery Code Consultant
-Contracted to enhance and adapt an existing estimation codebase to meet client needs. Delivered extended coefficient estimates, bootstrapped p-values, t-statistics, and publication-quality plots in line with recent academic literature.
+- **Price Discovery Code Consultant**
+  Contracted to enhance and adapt an existing estimation codebase to meet client needs. Delivered extended coefficient estimates, bootstrapped p-values, t-statistics, and publication-quality plots in line with recent academic literature.
 
-### Time Series Forecasting for Private Client
-Conducted a full time series analysis workflow: data cleaning, stationarity testing, ACF/PACF diagnostics, ARIMA and VAR modeling, and forecast evaluation. Delivered code, results, and model interpretation.
+- **Time Series Forecasting for Private Client**
+  Conducted a full time series analysis workflow: data cleaning, stationarity testing, ACF/PACF diagnostics, ARIMA and VAR modeling, and forecast evaluation. Delivered code, results, and model interpretation.
 
-### Review of Inflation Forecasting Methodology
-Evaluated an existing ARIMA-based forecasting process, performed stationarity and structural break analysis, and developed a modular, automated ARIMA evaluation pipeline for improved transparency and reproducibility.
+- **Review of Inflation Forecasting Methodology**
+  Evaluated an existing ARIMA-based forecasting process, performed stationarity and structural break analysis, and developed a modular, automated ARIMA evaluation pipeline for improved transparency and reproducibility.
 
 ---
 
