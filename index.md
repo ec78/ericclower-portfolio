@@ -53,10 +53,10 @@ This portfolio showcases selected projects that reflect my focus on bridging pro
 
 Real-world applications of econometric modeling and data analysis, including forecasting, index computation, and custom methodology evaluation for clients and researchers.
 
-- **Trilemma Index Computation**    
+- **[Trilemma Index Computation](https://users.ssc.wisc.edu/~mchinn/ACI_Trilemma_s_Oct09.pdf)**    
   Supported research by cleaning and integrating international financial and macroeconomic datasets. Computed multiple dimensions of the trilemma index using consistent time series techniques across countries and timeframes.
 
-- **Inflation Forecasting with Commodity Price Aggregates**    
+- **[Inflation Forecasting with Commodity Price Aggregates](https://www.sciencedirect.com/science/article/abs/pii/S0304407614001547)**    
   Provided data processing, cointegration testing, and VECM/VAR/LARS estimation for a cross-country inflation forecasting study. Evaluated the forecasting power of global commodity price aggregates for five commodity-rich economies.
 
 - **Price Discovery Code Consultant**    
