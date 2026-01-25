@@ -42,6 +42,7 @@ Led the development of instructional code, reference implementations, and docume
 These efforts supported formal training, online documentation, and user support workflows—helping ensure that sophisticated analytical tools could be understood, taught, and used consistently across a broad user base.
 
 [View detailed projects →](/projects/projects_landing.md)
+
 ---
 ## 📫 Connect
 
