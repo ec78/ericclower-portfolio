@@ -7,7 +7,7 @@ layout: default
 
 ## Turning complex economic insight into tools, guidance, and decisions people trust.
 
-I’m a senior education and applications leader with experience spanning applied economics, analytical software, and large-scale user enablement. I currently serve as **Director of Education Services at IMPLAN**, where my work focuses on helping organizations move from complex analysis to practical understanding—so economic insight can inform real decisions with clarity and confidence.
+I’m a senior education and applications leader with experience spanning applied economics, analytical software, and large-scale user enablement. I currently serve as **Director of Education Services at IMPLAN**, where my work focuses on helping organizations move from complex analysis to practical understanding—so economic insight can inform real decisions with clarity and confidence. In my current role, I lead and mentor a cross-functional education team responsible for training, documentation, and user enablement, including hiring and onboarding new team members.
 
 Across roles in product development, education, and customer enablement, I’ve led efforts to design tools, documentation, and training that make sophisticated analytical methods accessible, reliable, and actionable for decision-makers.
 
