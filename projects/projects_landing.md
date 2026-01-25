@@ -17,12 +17,21 @@ title: Projects
 - **[Estimation & Data Tools in GAUSS](estimation-tools-gauss.md)**  
   Contributed core estimation and data-handling functionality to the GAUSS platform, focusing on extensibility, consistency, and integration with documentation and user-facing tutorials.
 
-- **[GAUSS GitHub Collaboration Hub](projects/github-transition.md)**  
+- **[GAUSS GitHub Collaboration Hub](github-transition.md)**  
   Led the transition to a GitHub-based collaboration model to support open-source libraries, documentation, and private client work, enabling modern development workflows and broader access to GAUSS resources.
 
 ---
 
 ## 🎓 Technical Learning & Instructional Design
+
+- **[Translating Economic Impact Analysis into Decision-Ready Insight](implan-interpretation.md)**  
+  Led the development of education, guidance, and interpretive materials to help users apply and communicate economic impact analysis responsibly. This work focuses on clarifying model assumptions, appropriate use cases, and limitations so results can inform policy, business, and community decisions with confidence.
+
+- **[Designing Applied Economics Training for IMPLAN Users](implan-training.md)**  
+  Led the design and delivery of applied economics training for IMPLAN users, focusing on building intuition around input–output modeling, appropriate use cases, and result interpretation. This work emphasized helping analysts and decision-makers develop confidence in both the mechanics and limitations of economic impact analysis through structured, example-driven learning.
+
+- **[Guidance on Appropriate Use of Economic Impact Models](implan-governance.md)**  
+  Developed guidance and best practices around the responsible application of economic impact models, addressing common sources of misuse, assumption sensitivity, and communication risks. This work supports clearer interpretation and more defensible use of modeling results in policy, business, and community decision-making contexts.
 
 - **[GAUSS Video Onboarding Series](onboarding-series.md)**  
   Contributed to the end-to-end development of instructional video content, including curriculum design, scripting, editing, and coordination across contributors.
