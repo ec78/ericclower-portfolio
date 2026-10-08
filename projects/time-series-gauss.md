@@ -1,6 +1,8 @@
 ---
 title: Building and Teaching Advanced Time-Series Tools in GAUSS
 layout: default
+redirect_from:
+  - /projects/estimation-tools-gauss.html
 ---
 
 # Building and Teaching Advanced Time-Series Tools in GAUSS

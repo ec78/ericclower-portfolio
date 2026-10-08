@@ -1,6 +1,10 @@
 ---
 title: Responsible Education for Economic Impact Analysis
 layout: default
+redirect_from:
+  - /projects/implan-training.html
+  - /projects/implan-interpretation.html
+  - /projects/implan-governance.html
 ---
 
 # Responsible Education for Economic Impact Analysis

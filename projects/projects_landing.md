@@ -53,16 +53,7 @@ My portfolio is organized around the work where I have the strongest long-term a
 ## Applied Economics and Responsible Model Use
 
 - **[Responsible Education for Economic Impact Analysis](implan-responsible-education.md)**  
-  Combined training, interpretation guidance, and appropriate-use resources to help users apply economic impact models responsibly and communicate results clearly.
-
-- **[Translating Economic Impact Analysis into Decision-Ready Insight](implan-interpretation.md)**  
-  Developed education, guidance, and interpretive materials to help users apply economic impact analysis responsibly.
-
-- **[Designing Applied Economics Training for IMPLAN Users](implan-training.md)**  
-  Designed applied economics training focused on input-output modeling, model assumptions, and result interpretation.
-
-- **[Guidance on Appropriate Use of Economic Impact Models](implan-governance.md)**  
-  Developed guidance around responsible application of economic impact models, appropriate use cases, and communication risks.
+  Combined training, interpretation guidance, and appropriate-use resources to help users apply economic impact models responsibly and communicate results clearly. This page consolidates earlier pages on IMPLAN training, interpretation, and appropriate-use guidance.
 
 ---
 

@@ -34,7 +34,7 @@ Across my career, I have built systems that help technical and non-technical aud
 
 Built and delivered technical education, demos, and guidance for API and developer-style workflows across IMPLAN and GAUSS. This work includes IMPLAN API demos, GAUSS API design improvements, technical examples, documentation, and product education that help users understand how to apply complex tools.
 
-[Read the case study ->](/projects/api-developer-education.md)
+[Read the case study ->](projects/api-developer-education.md)
 
 ---
 
@@ -42,7 +42,7 @@ Built and delivered technical education, demos, and guidance for API and develop
 
 Used customer feedback, support-ticket patterns, internal surveys, and AI-assisted analysis to identify learning gaps and recommend structured education paths for employee roles and customer segments. This work supports customer onboarding, internal enablement, international expansion, and better prioritization of education resources.
 
-[Read the case study ->](/projects/education-strategy-learning-paths.md)
+[Read the case study ->](projects/education-strategy-learning-paths.md)
 
 ---
 
@@ -50,7 +50,7 @@ Used customer feedback, support-ticket patterns, internal surveys, and AI-assist
 
 Designed practical AI learning initiatives and built AI-assisted workflows for documentation, content development, code examples, and internal enablement. This work focuses on using AI to improve quality, reduce bottlenecks, and help teams apply AI tools responsibly in everyday work.
 
-[Read the case study ->](/projects/ai-learning-workflow-enablement.md)
+[Read the case study ->](projects/ai-learning-workflow-enablement.md)
 
 ---
 
@@ -58,7 +58,7 @@ Designed practical AI learning initiatives and built AI-assisted workflows for d
 
 Led documentation modernization, learning-system planning, KPI development, and education analytics work that made technical education more scalable and easier to evaluate. This includes the GAUSS documentation hub, IMPLAN education metrics, and current LMS migration work.
 
-[Read the case study ->](/projects/learning-systems-measurement.md)
+[Read the case study ->](projects/learning-systems-measurement.md)
 
 ---
 
@@ -66,13 +66,13 @@ Led documentation modernization, learning-system planning, KPI development, and 
 
 Helped develop, launch, promote, and support technical products and add-on offerings by combining product insight, customer education, messaging, examples, tutorials, and post-launch support.
 
-[Read the case study ->](/projects/product-development-launch.md)
+[Read the case study ->](projects/product-development-launch.md)
 
 ---
 
 ## Explore more projects
 
-[View all projects ->](/projects/projects_landing.md)
+[View all projects ->](projects/projects_landing.md)
 
 ---
 

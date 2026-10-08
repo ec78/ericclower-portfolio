@@ -1,4 +1,13 @@
-title: Eric Clower 
-subtitle: Data Education & Analytics Portfolio
-description: Selected projects in education leadership, client support, and applied analytics.
+title: Eric Clower
+description: Product adoption, technical enablement, AI workflows, and analytics for complex software products.
 theme: jekyll-theme-slate
+
+plugins:
+  - jekyll-redirect-from
+
+# Kept in the repository for history, but not published to the site.
+exclude:
+  - README.md
+  - archived/
+  - portfolio_update_pack/
+  - portfolio_update_integrated_pack/
