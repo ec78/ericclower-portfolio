@@ -21,7 +21,7 @@ Previously, as **Director of Training and Applications at Aptech Systems**, I wo
 - **Customer and program analytics:** Use Salesforce, API-based reporting, and program metrics to find patterns and set priorities.
 - **AI workflow adoption:** Build AI-assisted workflows with human review and governance, and help teams adopt AI in their everyday work.
 - **Technical enablement, APIs, and MCP:** Lead technical demos and API enablement, and evaluate how product knowledge reaches users and AI tools.
-- **Customer engagement and program operations:** Own and improve customer programs by monitoring participation, closing engagement gaps, and refining processes.
+- **Customer engagement and program operations:** Own and improve customer programs, including Premium Support, by monitoring participation, identifying engagement gaps, and refining processes.
 - **Product launch and GTM readiness:** Prepare customers and internal teams for new products and changes, working across Product, Marketing, and customer-facing teams.
 - **Applied economics and technical communication:** Translate statistical and economic concepts into clear guidance for technical and non-technical audiences.
 
