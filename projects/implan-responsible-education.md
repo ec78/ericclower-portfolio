@@ -43,17 +43,25 @@ This work combines several types of education resources:
 
 ---
 
-## Connection to Broader Education Strategy
+## Training Delivery
 
-Responsible model education is also connected to my current work on learning paths, LMS migration, content roadmaps, education metrics, and customer feedback analysis. The goal is not simply to provide more content; it is to help users build better judgment and reduce avoidable confusion.
+My department is responsible for internal training, external training, and paid customer training. Paid customer training is revenue-generating and contributes directly to Education Services revenue.
+
+---
+
+## Connection to Broader Strategy
+
+Responsible model use is also reinforced through the [IMPLAN Certified Economist and IMPLAN in the Classroom programs](professional-community-programs.md), and connected to my work on customer insight, onboarding, LMS migration, and program analytics. The goal is not simply to provide more content; it is to help users build better judgment and reduce avoidable confusion.
 
 ---
 
 ## Related Projects
 
-- [Education Strategy, Learning Paths, and Content Roadmaps](education-strategy-learning-paths.md)
+- [Professional and Community Programs](professional-community-programs.md)
+- [Customer Insight, Onboarding Needs, and Content Strategy](education-strategy-learning-paths.md)
+- [Premium Support and Strategic Customer Onboarding](customer-adoption-programs.md)
+- [Customer and Program Analytics](customer-program-analytics.md)
 - [Learning Systems, Documentation, and Measurement](learning-systems-measurement.md)
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
 
 ---
 

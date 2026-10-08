@@ -40,7 +40,7 @@ As project lead, I oversaw the production process from content design and script
 - [Learning Systems, Documentation, and Measurement](learning-systems-measurement.md)
 - [GAUSS Data Analytics Blog](analytics-blog.md)
 - [GAUSS Online Documentation Hub](documentation-hub.md)
-- [Product Development, Launch, and GTM Education](product-development-launch.md)
+- [Product Launch and GTM Readiness](product-development-launch.md)
 
 ---
 

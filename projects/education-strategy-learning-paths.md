@@ -1,75 +1,92 @@
 ---
-title: Education Strategy, Learning Paths, and Content Roadmaps
+title: Customer Insight, Onboarding Needs, and Content Strategy
 layout: default
 ---
 
-# Education Strategy, Learning Paths, and Content Roadmaps
+# Customer Insight, Onboarding Needs, and Content Strategy
 
-## Overview
+## Context
 
-Strong education programs start with a clear understanding of what users are trying to do, where they get stuck, and which resources will help them make progress. My recent work at IMPLAN has focused on using customer data, internal feedback, and AI-assisted analysis to identify learning gaps and turn them into structured education plans.
+Good decisions about content, onboarding, and customer programs start with a clear picture of what customers are trying to do, where they get stuck, and which resources would help them move forward. At IMPLAN, I use support-ticket patterns, survey feedback, and AI-assisted analysis to build that picture and turn it into priorities.
 
-This work connects learning strategy to business priorities: customer onboarding, employee enablement, international growth, product adoption, support efficiency, and more consistent user outcomes.
+This work connects customer insight to business priorities: onboarding, customer engagement, product adoption, international growth, support efficiency, and internal enablement.
 
 ---
 
-## Key Work
+## My role and scope
 
-### Learning Paths from Customer and Internal Feedback
+- **Analyzed:** support-ticket patterns and survey feedback, and made recommendations based on the results.
+- **Developed:** a content roadmap aligned with IMPLAN's international growth initiative.
+- **Use the results to set:** Education Services priorities and inform onboarding and support content.
 
-Used customer ticket data, internal survey responses, and AI-assisted analysis to identify recurring learning needs and recommend structured training paths for:
+---
 
-- Internal employee roles and knowledge tracks
-- External customer segments and verticals
+## What I did
+
+### Turned customer and internal feedback into priorities
+
+Used customer ticket data, internal survey responses, and AI-assisted analysis to identify recurring needs and recommend structured paths for:
+
+- New customers moving through onboarding
+- Different customer segments and verticals
 - Technical and non-technical users
-- New users moving through onboarding
 - Advanced users expanding into deeper product workflows
+- Internal roles that support customers
 
-### Learning Content Roadmap for International Growth
+### Content roadmap for international growth
 
-Developed a data-informed content roadmap aligned with IMPLAN's initiative to expand its international customer base. The roadmap used customer questions, survey feedback, support patterns, and business priorities to identify the content most likely to improve onboarding, product understanding, and customer self-service for emerging audiences.
+Developed a data-informed content roadmap aligned with IMPLAN's initiative to expand its international customer base. The roadmap used customer questions, survey feedback, support patterns, and business priorities to identify the content most likely to improve onboarding, product understanding, and self-service for emerging audiences.
 
-### Education Strategy Inputs
+---
 
-The roadmap and learning path work drew from:
+## Inputs
 
 - Support-ticket themes
-- Internal survey feedback
+- Customer and internal survey feedback
 - Customer-facing team observations
-- Product and customer success priorities
+- Customer and account patterns from [Customer and Program Analytics](customer-program-analytics.md)
+- Product and Customer Success priorities
 - Content inventory review
 - AI-assisted synthesis and categorization
 - Business initiatives tied to customer growth
 
 ---
 
+## How the insight is used
+
+- **Onboarding:** shaping what new and strategic customers see first. See [Premium Support and Strategic Customer Onboarding](customer-adoption-programs.md).
+- **Support content:** prioritizing which articles to create, update, or consolidate, including through the [Support Site modernization](support-site-modernization.md).
+- **Customer engagement:** identifying segments that need different resources or outreach.
+- **Program prioritization:** deciding where Education Services invests its time.
+
+---
+
 ## What This Work Demonstrates
 
-- Ability to turn messy qualitative and operational data into an education plan.
-- Skill in prioritizing content based on user needs, business goals, and product adoption barriers.
-- Experience designing education for multiple audiences rather than one generic user group.
-- Comfort using AI as an analysis and synthesis tool while keeping human judgment in the loop.
-- Ability to connect customer education to company strategy.
+- Turning messy qualitative and operational data into clear priorities
+- Prioritizing based on customer needs, business goals, and adoption barriers
+- Designing for multiple audiences rather than one generic user
+- Using AI for analysis and synthesis while keeping human judgment in the loop
+- Connecting customer insight to company strategy
 
 ---
 
 ## Related Projects
 
+- [Customer and Program Analytics](customer-program-analytics.md)
+- [Premium Support and Strategic Customer Onboarding](customer-adoption-programs.md)
+- [AI-Assisted Support Site Modernization](support-site-modernization.md)
 - [Learning Systems, Documentation, and Measurement](learning-systems-measurement.md)
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
-- [Responsible Education for Economic Impact Analysis](implan-responsible-education.md)
-- [GAUSS Online Documentation Hub](documentation-hub.md)
+- [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 
 ---
 
-## Skills Demonstrated
+## Capabilities Demonstrated
 
-- Education strategy
-- Learning path design
-- Content roadmapping
-- Customer feedback analysis
-- AI-assisted analysis
-- Customer enablement
-- Internal enablement
-- International customer education planning
+- Customer insight and feedback analysis
+- Support-ticket pattern analysis
+- Onboarding needs assessment
+- Content strategy and roadmapping
+- Customer engagement planning
 - Program prioritization
+- AI-assisted analysis

@@ -1,38 +1,38 @@
 ---
-title: Product Development, Launch, and GTM Education
+title: Product Launch and GTM Readiness
 layout: default
 ---
 
-# Product Development, Launch, and GTM Education
+# Product Launch and GTM Readiness
 
-## Overview
+## Context
 
-My Aptech role was broader than training or content. I worked across education, product development, customer support, GTM, and launch execution for GAUSS and related add-on products. This gave me experience connecting customer problems, technical capabilities, product positioning, and education resources into complete product adoption efforts.
+A launch succeeds when customers understand what changed, why it matters to them, and how to start using it, and when the internal teams around them are ready to answer questions. At Aptech Systems, I worked across product development, customer support, GTM, and launch execution for GAUSS and its add-on products, connecting technical capabilities to customer readiness and adoption.
 
-This work is central to my career alignment: I am strongest in roles where education is connected to product strategy, launch readiness, customer understanding, and real-world adoption.
+---
+
+## My role and scope
+
+As Director of Training and Applications at Aptech, my role extended well beyond training content. I contributed to planning, developing, launching, and promoting GAUSS add-on products, and supported releases with customer-facing communication, technical examples, and post-launch adoption support.
 
 ---
 
 ## Product and Launch Contributions
 
-Representative work included:
-
-- Planning, developing, launching, and promoting GAUSS add-on products
-- Helping define product scope and customer-facing value propositions
-- Supporting product releases with demos, tutorials, blog content, documentation, and customer communications
-- Translating technical functionality into practical examples and use cases
-- Working with developers, economists, business leaders, and customers to clarify product requirements and adoption barriers
-- Using customer support patterns and user feedback to improve documentation, training, and product guidance
-- Supporting post-launch adoption through tutorials, office hours, examples, and direct customer assistance
+- Planned, developed, launched, and promoted GAUSS add-on products
+- Helped define product scope and customer-facing value propositions
+- Worked with developers, economists, business leaders, and customers to clarify product requirements and adoption barriers
+- Translated technical functionality into practical examples and use cases
+- Supported releases with demos, tutorials, blog content, documentation, and customer communications
 
 ---
 
-## GTM and Product Education
+## Customer Readiness and GTM Support
 
-I created and managed content that supported both customer education and product marketing:
+I created and managed content that supported both customer readiness and product marketing:
 
 - Product-focused blog posts and tutorials
-- Launch education and announcement content
+- Launch announcements and customer communications
 - Customer-facing examples and demos
 - Email and social distribution support
 - Office hours and webinar programming
@@ -43,9 +43,16 @@ One measurable outcome from this work was authoring and managing instructional b
 
 ---
 
+## Post-Launch Adoption
+
+- Supported adoption through tutorials, office hours, examples, and direct customer assistance
+- Used customer support patterns and user feedback to improve documentation, training, and product guidance
+
+---
+
 ## Why This Work Matters
 
-This experience shows that I can operate beyond a narrow content role. I can help a team think through how a product will be understood, adopted, taught, supported, and positioned. That includes both the user-facing education layer and the internal coordination needed to make launches more effective.
+This experience is the foundation for my current work at IMPLAN: thinking through how a product will be understood, adopted, supported, and positioned, and coordinating the teams needed to make that happen. The same pattern shows up in the cross-functional governance behind the [AI-Assisted Support Site Modernization](support-site-modernization.md).
 
 ---
 
@@ -55,18 +62,16 @@ This experience shows that I can operate beyond a narrow content role. I can hel
 - [GAUSS Data Analytics Blog](analytics-blog.md)
 - [GAUSS `tspdlib` Library](tspdlib-library.md)
 - [GAUSS Onboarding Video Series](onboarding-series.md)
-- [GAUSS Online Documentation Hub](documentation-hub.md)
+- [API Enablement, Technical Demos, and MCP Evaluation](api-developer-education.md)
 
 ---
 
-## Skills Demonstrated
+## Capabilities Demonstrated
 
-- Product education
-- GTM support
-- Launch enablement
-- Product positioning
-- Customer messaging
+- Product launch execution
+- GTM support and customer readiness
+- Product positioning and customer messaging
 - Technical examples and demos
 - Add-on product development
+- Post-launch adoption support
 - Cross-functional collaboration
-- Customer support insight

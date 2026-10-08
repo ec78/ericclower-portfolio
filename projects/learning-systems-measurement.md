@@ -7,23 +7,11 @@ layout: default
 
 ## Overview
 
-Scalable education requires more than individual courses or documents. It needs systems: organized content, clear pathways, reporting, governance, feedback loops, and metrics that help teams understand whether learning programs are helping users succeed.
+Customer-facing content only scales when it sits on a solid system: organized content, clear pathways, reporting, governance, and feedback loops that show whether resources are helping users succeed.
 
-My work has included documentation modernization, LMS migration planning, KPI dashboard development, and support-deflection resources that make education easier to maintain and evaluate.
+My work has included documentation modernization, LMS migration, and support-deflection resources that make customer-facing content easier to maintain and evaluate.
 
----
-
-## IMPLAN Education Metrics and KPI Dashboard
-
-At IMPLAN, I created an Education Services metrics dashboard to help the team evaluate program performance, communicate value, and guide decisions about learning priorities.
-
-The dashboard is designed to support questions such as:
-
-- Which education programs are reaching users?
-- Which resources are most useful to customers and internal teams?
-- Where are users still struggling?
-- Which learning investments appear to support onboarding, adoption, or support efficiency?
-- How should the team prioritize future content and program development?
+Measurement for this work, including the Education Services metrics dashboard, is covered in [Customer and Program Analytics](customer-program-analytics.md).
 
 ---
 
@@ -53,21 +41,19 @@ This work reduced support burden, improved user experience, and created a strong
 
 ## Related Projects
 
+- [Customer and Program Analytics](customer-program-analytics.md)
+- [AI-Assisted Support Site Modernization](support-site-modernization.md)
+- [Customer Insight, Onboarding Needs, and Content Strategy](education-strategy-learning-paths.md)
 - [GAUSS Online Documentation Hub](documentation-hub.md)
 - [GAUSS GitHub Transition and Collaboration Hub](github-transition.md)
-- [Education Strategy, Learning Paths, and Content Roadmaps](education-strategy-learning-paths.md)
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
 
 ---
 
 ## Skills Demonstrated
 
-- Education analytics
-- KPI dashboard design
-- LMS implementation planning
+- LMS implementation
 - Documentation systems
 - Content governance
+- Metadata and content structure
 - Support deflection
-- Program evaluation
 - Learning operations
-- Cross-functional reporting

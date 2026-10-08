@@ -9,7 +9,7 @@ layout: default
 
 I actively integrate AI tools into education, documentation, content development, and product support workflows. These tools are most valuable when they improve speed and consistency while keeping expert review, technical accuracy, and user needs at the center.
 
-This page focuses on the AI-assisted workflows I built at Aptech. For the broader portfolio case study that also includes internal AI learning programs, see [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md).
+This page focuses on the AI-assisted workflows I built at Aptech. For the broader case study that also covers IMPLAN's AI in the Workplace initiative, see [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md).
 
 ---
 
@@ -64,7 +64,7 @@ Referenced in: [GAUSS `tspdlib` Library](tspdlib-library.md), [GAUSS Data Analyt
 
 ## Related Projects
 
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
+- [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 - [GAUSS Online Documentation Hub](documentation-hub.md)
 - [GAUSS Data Analytics Blog](analytics-blog.md)
-- [Product Development, Launch, and GTM Education](product-development-launch.md)
+- [Product Launch and GTM Readiness](product-development-launch.md)

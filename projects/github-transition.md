@@ -36,8 +36,8 @@ This work helped move GAUSS education and developer resources closer to modern s
 
 - [GAUSS Online Documentation Hub](documentation-hub.md)
 - [GAUSS `tspdlib` Library](tspdlib-library.md)
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
-- [API and Developer Education for Technical Products](api-developer-education.md)
+- [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
+- [API Enablement, Technical Demos, and MCP Evaluation](api-developer-education.md)
 
 ---
 

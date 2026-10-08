@@ -35,7 +35,7 @@ The library became one of Aptech's most widely used user-contributed resources a
 - [GAUSS GitHub Transition and Collaboration Hub](github-transition.md)
 - [GAUSS Online Documentation Hub](documentation-hub.md)
 - [Building and Teaching Advanced Time-Series Tools in GAUSS](time-series-gauss.md)
-- [Product Development, Launch, and GTM Education](product-development-launch.md)
+- [Product Launch and GTM Readiness](product-development-launch.md)
 
 ---
 

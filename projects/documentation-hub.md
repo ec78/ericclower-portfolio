@@ -39,7 +39,7 @@ The documentation hub improved the user experience for GAUSS customers and creat
 ## Related Projects
 
 - [Learning Systems, Documentation, and Measurement](learning-systems-measurement.md)
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
+- [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 - [GAUSS GitHub Transition and Collaboration Hub](github-transition.md)
 - [Building and Teaching Advanced Time-Series Tools in GAUSS](time-series-gauss.md)
 

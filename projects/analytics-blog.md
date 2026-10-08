@@ -38,9 +38,9 @@ The blog played a dual role: it helped users learn GAUSS and it supported produc
 
 ## Related Projects
 
-- [Product Development, Launch, and GTM Education](product-development-launch.md)
+- [Product Launch and GTM Readiness](product-development-launch.md)
 - [Building and Teaching Advanced Time-Series Tools in GAUSS](time-series-gauss.md)
-- [AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)
+- [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 - [GAUSS Online Documentation Hub](documentation-hub.md)
 
 ---
