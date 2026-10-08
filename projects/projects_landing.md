@@ -5,30 +5,57 @@ title: Projects
 
 # Projects
 
-My portfolio is organized around the work where I have the strongest long-term alignment: product education, developer enablement, AI-supported learning systems, technical documentation, product launch support, and applied analytics education.
+Selected work in product adoption, customer programs, analytics, AI workflows, and technical enablement for complex software products. Current work is from my role as Director of Education Services at IMPLAN; earlier work is from Aptech Systems (GAUSS) and applied quantitative analysis.
 
 ---
 
-## Featured Work: Product Education, Developer Enablement, and AI Learning Strategy
+## Product Adoption & Customer Programs
 
-- **[API and Developer Education for Technical Products](api-developer-education.md)**  
-  Built and delivered API demos, developer-facing examples, technical guidance, and product education for complex analytical platforms. This page connects IMPLAN API education with GAUSS API design, documentation, and technical examples.
+- **[Premium Support and Strategic Customer Onboarding](customer-adoption-programs.md)**  
+  Own IMPLAN's ARR-contributing Premium Support program, monitoring participation, identifying engagement gaps, and improving utilization. Partner with Key Account Managers and Customer Success Managers to reduce onboarding friction and improve time-to-value for strategic customers.
 
-- **[Education Strategy, Learning Paths, and Content Roadmaps](education-strategy-learning-paths.md)**  
-  Used support-ticket patterns, survey feedback, and AI-assisted analysis to identify learning gaps and recommend structured education paths for employees, customers, and emerging customer segments.
+- **[Customer Insight, Onboarding Needs, and Content Strategy](education-strategy-learning-paths.md)**  
+  Used support-ticket patterns, survey feedback, and AI-assisted analysis to identify customer needs and set priorities for onboarding, support content, and customer engagement, including a content roadmap for international growth.
 
-- **[AI Learning and Workflow Enablement](ai-learning-workflow-enablement.md)**  
-  Designed internal AI learning programs and built AI-assisted workflows for documentation, content development, code examples, and support operations.
+---
+
+## Data, Analytics & AI
+
+- **[AI-Assisted Support Site Modernization](support-site-modernization.md)**  
+  Built an AI-assisted workflow with Claude Code to modernize Support Site content for consistency, SEO, AEO, and MCP readiness, guided by analytics and governed by human review, security checks, and cross-functional approval.
+
+- **[Customer and Program Analytics](customer-program-analytics.md)**  
+  Use Salesforce and its API to identify customer and account patterns, and maintain program KPIs that inform support content, engagement, onboarding, and Education Services strategy.
+
+- **[AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)**  
+  Designed and launched IMPLAN's AI in the Workplace initiative for practical AI adoption, AI literacy, workflow improvement, and responsible use.
+
+---
+
+## Technical Enablement & APIs
+
+- **[API Enablement, Technical Demos, and MCP Evaluation](api-developer-education.md)**  
+  Lead API demonstrations and developer-oriented enablement at IMPLAN, and evaluated IMPLAN's MCP server with recommendations on usability, performance, and AI-ready knowledge access.
 
 - **[Learning Systems, Documentation, and Measurement](learning-systems-measurement.md)**  
-  Built education systems that scale: documentation hubs, LMS planning, KPI dashboards, reporting structures, support-deflection resources, and content maintenance practices.
-
-- **[Product Development, Launch, and GTM Education](product-development-launch.md)**  
-  Helped plan, develop, launch, promote, and support technical products and add-on offerings through product education, customer messaging, demos, technical examples, and launch resources.
+  Content infrastructure that scales: LMS migration, documentation modernization, content governance, and support-deflection resources.
 
 ---
 
-## Supporting Technical Portfolio
+## Professional Programs & Applied Economics
+
+- **[Professional and Community Programs](professional-community-programs.md)**  
+  Lead and oversee IMPLAN in the Classroom and IMPLAN Certified Economist, programs that support professional development, academic and community engagement, and broader product adoption.
+
+- **[Responsible Education for Economic Impact Analysis](implan-responsible-education.md)**  
+  Training, interpretation guidance, and appropriate-use resources that help users apply economic impact models responsibly. My department delivers internal, external, and revenue-generating customer training.
+
+---
+
+## Earlier Product & Technical Work
+
+- **[Product Launch and GTM Readiness](product-development-launch.md)**  
+  Planned, developed, launched, and supported GAUSS add-on products, connecting technical capabilities to customer readiness and adoption.
 
 - **[Building and Teaching Advanced Time-Series Tools in GAUSS](time-series-gauss.md)**  
   Led development, API design, modernization, documentation, and education for advanced econometric modeling tools used by researchers, analysts, and students.
@@ -42,6 +69,9 @@ My portfolio is organized around the work where I have the strongest long-term a
 - **[GAUSS Online Documentation Hub](documentation-hub.md)**  
   Managed the migration from static manuals to a searchable, online-first documentation system with practical examples, improved self-service, and AI-assisted documentation workflows.
 
+- **[AI-Accelerated Workflows](ai-accelerated-workflows.md)**  
+  Built AI-assisted workflows for documentation drafting, content development, formatting automation, and code examples.
+
 - **[GAUSS Data Analytics Blog](analytics-blog.md)**  
   Authored tutorials, applied guides, and product-focused content that supported customer education, product marketing, and new capability adoption.
 
@@ -50,16 +80,9 @@ My portfolio is organized around the work where I have the strongest long-term a
 
 ---
 
-## Applied Economics and Responsible Model Use
+## Earlier Quantitative Analysis
 
-- **[Responsible Education for Economic Impact Analysis](implan-responsible-education.md)**  
-  Combined training, interpretation guidance, and appropriate-use resources to help users apply economic impact models responsibly and communicate results clearly. This page consolidates earlier pages on IMPLAN training, interpretation, and appropriate-use guidance.
-
----
-
-## Earlier Applied Quantitative Analysis Work
-
-These projects provide additional analytical credibility and show the technical foundation behind my education and product work.
+These projects show the analytical foundation behind my product and technical work.
 
 - **[Trilemma Index Computation](https://users.ssc.wisc.edu/~mchinn/ACI_Trilemma_s_Oct09.pdf)**  
   Supported academic research by cleaning and integrating international macroeconomic and financial datasets and computing multiple dimensions of the trilemma index using consistent time-series techniques.

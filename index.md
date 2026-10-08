@@ -5,66 +5,73 @@ layout: default
 
 # Eric Clower
 
-## Product education, developer enablement, and AI learning strategy for complex technical products.
+## Product adoption, technical enablement, AI workflows, and analytics for complex software products.
 
-I help people understand and adopt technical products by connecting product knowledge, customer needs, education strategy, documentation, demos, and practical workflows. My work sits at the intersection of education, product development, user enablement, applied analytics, and AI-supported learning systems.
+I help customers and internal teams get value from complex products faster by connecting onboarding, customer engagement, technical enablement, AI workflows, and analytics with the product and operational strategy behind them.
 
-I currently serve as **Director of Education Services at IMPLAN**, where I lead customer and internal education programs, manage learning resources, support technical documentation, guide LMS migration, develop education metrics, and design AI learning programs for employees. My recent work includes using customer ticket data, internal survey feedback, and AI-assisted analysis to identify learning gaps, recommend role-based learning paths, and shape content roadmaps tied to business priorities.
+I am currently **Director of Education Services at IMPLAN**, where I lead a four-person team of subject-matter experts. I own IMPLAN's Premium Support program, an ARR-contributing customer program, and work with Key Account Managers and Customer Success Managers to improve onboarding for strategic customers. I use Salesforce and its API to identify customer and account patterns that shape support content, engagement, and program priorities. I built an AI-assisted workflow with Claude Code to support the modernization of IMPLAN's Support Site, designed and launched an internal AI in the Workplace initiative, and lead API demonstrations and technical enablement, including an evaluation of IMPLAN's MCP server. My department is also responsible for internal, external, and revenue-generating customer training, along with the IMPLAN in the Classroom and IMPLAN Certified Economist programs.
 
-Previously, as **Director of Training and Applications at Aptech Systems**, I led education and enablement for GAUSS, a statistical programming and data analysis platform. That role combined customer education, product development, GTM support, technical documentation, API-oriented product design, customer support, and launch education for new features and add-on products.
-
-Across my career, I have built systems that help technical and non-technical audiences move from confusion to confidence: documentation hubs, tutorials, code examples, webinars, product demos, online courses, internal enablement programs, open-source resources, technical blogs, and applied learning experiences.
+Previously, as **Director of Training and Applications at Aptech Systems**, I worked across product development, launch, GTM support, technical documentation, API design, and customer support for GAUSS, a statistical programming and data analysis platform.
 
 ---
 
 ## What I do best
 
-- **Product education strategy:** Turn product capabilities, customer needs, and business goals into education plans, content roadmaps, and scalable learning resources.
-- **Developer and technical enablement:** Create demos, examples, documentation, API education, and technical guidance that help users apply complex tools in real workflows.
-- **AI learning and workflow adoption:** Design practical AI learning programs and use AI-assisted workflows to improve education, documentation, and support operations.
-- **Learning systems and measurement:** Build education programs with stronger structure, clearer ownership, better reporting, and metrics that help teams understand what is working.
-- **Cross-functional product collaboration:** Partner with product, engineering, support, marketing, sales, and customer success to connect technical functionality to user understanding and adoption.
-- **Applied technical communication:** Translate statistical, economic, and analytical concepts into clear examples, tutorials, training, and decision-support resources.
+- **Product adoption and onboarding:** Reduce friction between purchase and productive use, and help customers reach value sooner.
+- **Customer and program analytics:** Use Salesforce, API-based reporting, and program metrics to find patterns and set priorities.
+- **AI workflow adoption:** Build AI-assisted workflows with human review and governance, and help teams adopt AI in their everyday work.
+- **Technical enablement, APIs, and MCP:** Lead technical demos and API enablement, and evaluate how product knowledge reaches users and AI tools.
+- **Customer engagement and program operations:** Own and improve customer programs by monitoring participation, closing engagement gaps, and refining processes.
+- **Product launch and GTM readiness:** Prepare customers and internal teams for new products and changes, working across Product, Marketing, and customer-facing teams.
+- **Applied economics and technical communication:** Translate statistical and economic concepts into clear guidance for technical and non-technical audiences.
 
 ---
 
 ## Featured work
 
-### API and developer education for technical products
+### AI-Assisted Support Site Modernization
 
-Built and delivered technical education, demos, and guidance for API and developer-style workflows across IMPLAN and GAUSS. This work includes IMPLAN API demos, GAUSS API design improvements, technical examples, documentation, and product education that help users understand how to apply complex tools.
+Built an AI-assisted workflow with Claude Code to modernize IMPLAN's Support Site, using Google Analytics data and Marketing input to set priorities. The work improves terminology, formatting, metadata, SEO, AEO, and MCP readiness, with human review, security checks, and cross-functional governance with leadership, Product, and Marketing.
+
+[Read the case study ->](projects/support-site-modernization.md)
+
+---
+
+### Customer and Program Analytics
+
+Use Salesforce and its API to identify customer patterns and account insights that inform support content, customer engagement, onboarding, and Education Services strategy, alongside program KPIs and an Education Services metrics dashboard.
+
+[Read the case study ->](projects/customer-program-analytics.md)
+
+---
+
+### API Enablement, Technical Demos, and MCP Evaluation
+
+Lead API demonstrations, developer-oriented enablement, and customer guidance on technical workflows at IMPLAN. Evaluated IMPLAN's MCP server and recommended improvements to usability, performance, and AI-ready knowledge access. Builds on earlier API design work for GAUSS.
 
 [Read the case study ->](projects/api-developer-education.md)
 
 ---
 
-### Education strategy, learning paths, and content roadmaps
+### Premium Support and Strategic Customer Onboarding
 
-Used customer feedback, support-ticket patterns, internal surveys, and AI-assisted analysis to identify learning gaps and recommend structured education paths for employee roles and customer segments. This work supports customer onboarding, internal enablement, international expansion, and better prioritization of education resources.
+Own IMPLAN's Premium Support program: monitoring participation, identifying engagement gaps, improving utilization, and refining program processes. Partner with Key Account Managers and Customer Success Managers to reduce onboarding friction and improve time-to-value for strategic customers.
 
-[Read the case study ->](projects/education-strategy-learning-paths.md)
+[Read the case study ->](projects/customer-adoption-programs.md)
 
 ---
 
-### AI learning and workflow enablement
+### AI Workflow Adoption and Enablement
 
-Designed practical AI learning initiatives and built AI-assisted workflows for documentation, content development, code examples, and internal enablement. This work focuses on using AI to improve quality, reduce bottlenecks, and help teams apply AI tools responsibly in everyday work.
+Designed and launched IMPLAN's AI in the Workplace initiative, focused on practical AI adoption, AI literacy, workflow improvement, and responsible use. Builds on earlier AI-assisted documentation and content workflows at Aptech.
 
 [Read the case study ->](projects/ai-learning-workflow-enablement.md)
 
 ---
 
-### Learning systems, documentation, and measurement
+### Product Launch and GTM Readiness
 
-Led documentation modernization, learning-system planning, KPI development, and education analytics work that made technical education more scalable and easier to evaluate. This includes the GAUSS documentation hub, IMPLAN education metrics, and current LMS migration work.
-
-[Read the case study ->](projects/learning-systems-measurement.md)
-
----
-
-### Product development, launch, and GTM education
-
-Helped develop, launch, promote, and support technical products and add-on offerings by combining product insight, customer education, messaging, examples, tutorials, and post-launch support.
+Planned, developed, launched, and supported GAUSS add-on products at Aptech, connecting technical capabilities to customer readiness through demos, examples, documentation, customer communications, and post-launch adoption support.
 
 [Read the case study ->](projects/product-development-launch.md)
 
