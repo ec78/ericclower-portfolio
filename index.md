@@ -1,4 +1,5 @@
 ---
+title: Eric Clower
 layout: default
 description: I help customers and internal teams get value from complex products faster by connecting onboarding, customer engagement, technical enablement, AI workflows, and analytics with the product and operational strategy behind them.
 ---
