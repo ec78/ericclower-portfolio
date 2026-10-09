@@ -59,7 +59,7 @@ Used targeted prompting and iterative refinement to:
 - Support content creation in both blog and documentation contexts
 - Improve the speed of prototype examples and tutorial drafts
 
-Referenced in: [GAUSS `tspdlib` Library](tspdlib-library.md), [GAUSS Data Analytics Blog](analytics-blog.md)
+Referenced in: [TSPDLIB: Open-Source Ecosystem Strategy](tspdlib-library.md), [GAUSS Data Analytics Blog](analytics-blog.md)
 
 ---
 
@@ -68,4 +68,4 @@ Referenced in: [GAUSS `tspdlib` Library](tspdlib-library.md), [GAUSS Data Analyt
 - [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 - [GAUSS Online Documentation Hub](documentation-hub.md)
 - [GAUSS Data Analytics Blog](analytics-blog.md)
-- [Product Launch and GTM Readiness](product-development-launch.md)
+- [GAUSS Machine Learning Library: Product Evaluation, Launch, and GTM](product-development-launch.md)

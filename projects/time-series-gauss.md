@@ -1,18 +1,18 @@
 ---
-title: Building and Teaching Advanced Time-Series Tools in GAUSS
-description: "Led development, API design, modernization, documentation, and education for advanced econometric modeling tools in GAUSS."
+title: Time-Series Product Development and API Design in GAUSS
+description: "Development, API design, modernization, and documentation for advanced time series econometrics tools in GAUSS, including structural VAR, state-space, and nonlinear models."
 layout: default
 redirect_from:
   - /projects/estimation-tools-gauss.html
 ---
 
-# Building and Teaching Advanced Time-Series Tools in GAUSS
+# Time-Series Product Development and API Design in GAUSS
 
 ## Overview
 
-As a lead developer and educator for the **Time Series Modeling Tools (TSMT)** library in GAUSS, I played a central role in extending and refining GAUSS's capabilities for advanced time series econometrics. This work combined product development, API design, statistical implementation, documentation, testing, tutorials, and customer education.
+As a lead developer for the **Time Series Modeling Tools (TSMT)** library in GAUSS, I played a central role in extending and refining GAUSS's capabilities for advanced time series econometrics. This work combined product development, API design, statistical implementation, testing, and documentation.
 
-The project is one of the clearest examples of how I work: I can understand complex technical functionality, contribute to product direction, build usable tools, and then teach users how to apply those tools in real analytical workflows.
+It shows the full path from product direction to working software: understanding what users need, building usable tools, and helping users apply them in real analytical workflows. The customer discovery that shaped the library's direction is described in [Product Discovery, Roadmap Strategy, and Technical Product Development](product-discovery-roadmap-strategy.md).
 
 ---
 
@@ -21,7 +21,7 @@ The project is one of the clearest examples of how I work: I can understand comp
 - Built new functionality from the ground up for advanced time series estimation models.
 - Refactored and modernized existing code to improve usability, consistency, and performance.
 - Designed streamlined user-facing APIs using optional arguments and structured outputs.
-- Collaborated on product planning, helping define scope, prioritize features, and respond to customer needs.
+- Collaborated on product planning, helping define scope, prioritize features, and respond to customer needs. See [Product Discovery, Roadmap Strategy, and Technical Product Development](product-discovery-roadmap-strategy.md).
 - Wrote a comprehensive documentation suite with practical examples and usage guidance.
 - Authored 30+ educational blog posts and tutorials on time series modeling topics.
 - Supported users through documentation, examples, live guidance, and technical troubleshooting.
@@ -36,7 +36,7 @@ Added Kalman-filter-based likelihood estimation for models with latent component
 
 ### Structural VAR Models with Restrictions
 
-Implemented tools for structural VAR modeling, including long-run restrictions, short-run restrictions, and sign restrictions.
+Implemented tools for structural VAR modeling, including long-run restrictions, short-run restrictions, and sign restrictions. Expanding the library's structural VAR capabilities was one of the priorities identified through [customer discovery with core users](product-discovery-roadmap-strategy.md#customer-discovery-expanding-the-gauss-time-series-library).
 
 ### Nonlinear Time Series Tools
 
@@ -60,11 +60,9 @@ These features expanded GAUSS's modeling suite and supported a broader range of 
 
 ---
 
-## Education and Documentation
+## Documentation and Examples
 
-The education layer was integral to the product work. I created documentation, tutorials, and examples that helped users move from theoretical model concepts to usable workflows.
-
-Topics included:
+Documentation, tutorials, and examples were part of the product, not an afterthought. They helped users move from model concepts to usable workflows. Topics included:
 
 - Forecasting with ARIMA and VARIMA
 - Unit root and cointegration testing
@@ -86,14 +84,21 @@ Topics included:
 
 ---
 
+## Related Projects
+
+- [Product Discovery, Roadmap Strategy, and Technical Product Development](product-discovery-roadmap-strategy.md)
+- [TSPDLIB: Open-Source Ecosystem Strategy](tspdlib-library.md)
+- [GAUSS Data Analytics Blog](analytics-blog.md)
+
+---
+
 ## Skills Demonstrated
 
 - Product development
 - API design
-- Technical education
+- Product planning and prioritization
 - Econometric modeling
+- Statistical validation and testing
 - Technical documentation
 - Code examples and tutorials
-- Customer support and adoption
-- Product planning
-- Statistical validation
+- Customer adoption

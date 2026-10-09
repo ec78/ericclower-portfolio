@@ -20,7 +20,7 @@ This project is one of my strongest developer enablement examples because it con
 - Shifted GAUSS documentation to versioned, public GitHub repositories.
 - Launched and maintained 30+ repositories for open-source GAUSS libraries, examples, and utilities.
 - Enabled external collaboration through private GitHub repositories for research clients and institutional partners.
-- Established GAUSS's first internally supported open-source library catalog.
+- Established GAUSS's first internally supported open-source library catalog, building on the strategy behind [TSPDLIB](tspdlib-library.md).
 - Supported the release and visibility of widely used open-source GAUSS libraries.
 
 ---
@@ -36,7 +36,7 @@ This work helped move GAUSS education and developer resources closer to modern s
 ## Related Projects
 
 - [GAUSS Online Documentation Hub](documentation-hub.md)
-- [GAUSS `tspdlib` Library](tspdlib-library.md)
+- [TSPDLIB: Open-Source Ecosystem Strategy](tspdlib-library.md)
 - [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 - [API Enablement, Technical Demos, and MCP Evaluation](api-developer-education.md)
 
