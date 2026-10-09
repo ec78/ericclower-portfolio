@@ -1,12 +1,28 @@
 ---
 layout: default
 title: Projects
-description: "Selected work in product adoption, customer programs, analytics, AI workflows, and technical enablement for complex software products, at IMPLAN and Aptech Systems (GAUSS)."
+description: "Selected work in product strategy, customer discovery, product adoption, analytics, AI workflows, and technical enablement for complex software products, at IMPLAN and Aptech Systems (GAUSS)."
 ---
 
 # Projects
 
-Selected work in product adoption, customer programs, analytics, AI workflows, and technical enablement for complex software products. Current work is from my role as Director of Education Services at IMPLAN; earlier work is from Aptech Systems (GAUSS) and applied quantitative analysis.
+Selected work in product strategy, customer discovery, product adoption, analytics, AI workflows, and technical enablement for complex software products. Current work is from my role as Director of Education Services at IMPLAN; product strategy and development work is from Aptech Systems (GAUSS), where I continue to advise in a limited consulting capacity.
+
+---
+
+## Product Strategy & Development
+
+- **[Product Discovery, Roadmap Strategy, and Technical Product Development](product-discovery-roadmap-strategy.md)**  
+  Customer discovery for the GAUSS Time Series Library, annual release planning as a customer voice, and API, UX, and output evaluation for a lean development team.
+
+- **[TSPDLIB: Open-Source Ecosystem Strategy](tspdlib-library.md)**  
+  Championed Aptech's first actively supported user-developed open-source library, then partnered on product development and GTM. Now cited in 70+ academic papers.
+
+- **[GAUSS Machine Learning Library: Product Evaluation, Launch, and GTM](product-development-launch.md)**  
+  Evaluated scope, use cases, competitors, API design, and output for a paid machine learning add-on, then supported its launch and oversaw GTM outreach.
+
+- **[Time-Series Product Development and API Design in GAUSS](time-series-gauss.md)**  
+  Development, API design, and modernization of advanced time series econometrics tools, including structural VAR, state-space, and nonlinear models.
 
 ---
 
@@ -53,19 +69,10 @@ Selected work in product adoption, customer programs, analytics, AI workflows, a
 
 ---
 
-## Earlier Product & Technical Work
-
-- **[Product Launch and GTM Readiness](product-development-launch.md)**  
-  Planned, developed, launched, and supported GAUSS add-on products, connecting technical capabilities to customer readiness and adoption.
-
-- **[Building and Teaching Advanced Time-Series Tools in GAUSS](time-series-gauss.md)**  
-  Led development, API design, modernization, documentation, and education for advanced econometric modeling tools used by researchers, analysts, and students.
+## Earlier Technical & Content Work
 
 - **[GAUSS GitHub Transition and Collaboration Hub](github-transition.md)**  
   Created the Aptech GitHub organization and helped modernize public documentation, open-source resources, client collaboration, and technical resource sharing.
-
-- **[GAUSS `tspdlib` Library](tspdlib-library.md)**  
-  Led structure, documentation, outreach, and adoption support for an open-source GAUSS library that became one of Aptech's most widely used user-contributed resources.
 
 - **[GAUSS Online Documentation Hub](documentation-hub.md)**  
   Managed the migration from static manuals to a searchable, online-first documentation system with practical examples, improved self-service, and AI-assisted documentation workflows.

@@ -4,7 +4,7 @@ Source for my portfolio site, built with Jekyll and published via GitHub Pages.
 
 **Live site:** https://ec78.github.io/ericclower-portfolio/
 
-The site covers selected work in product adoption, technical enablement, AI workflows, and analytics for complex software products, across roles at IMPLAN and Aptech Systems (GAUSS).
+The site covers selected work in product strategy, customer discovery, product adoption, technical enablement, AI workflows, and analytics for complex software products, across roles at IMPLAN and Aptech Systems (GAUSS).
 
 ## Structure
 
