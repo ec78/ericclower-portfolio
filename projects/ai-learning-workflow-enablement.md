@@ -1,5 +1,6 @@
 ---
 title: AI Workflow Adoption and Enablement
+description: "Designed and launched IMPLAN's AI in the Workplace initiative for practical AI adoption, AI literacy, workflow improvement, and responsible use, building on earlier AI-assisted workflows."
 layout: default
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: GAUSS `tspdlib` Library
+description: "Led structure, documentation, outreach, and adoption support for tspdlib, an open-source GAUSS library for time-series analysis."
 layout: default
 ---
 

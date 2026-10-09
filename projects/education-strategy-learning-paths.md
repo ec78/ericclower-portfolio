@@ -1,5 +1,6 @@
 ---
 title: Customer Insight, Onboarding Needs, and Content Strategy
+description: "Turning support-ticket patterns, survey feedback, and AI-assisted analysis into priorities for onboarding, support content, customer engagement, and international growth."
 layout: default
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Building and Teaching Advanced Time-Series Tools in GAUSS
+description: "Led development, API design, modernization, documentation, and education for advanced econometric modeling tools in GAUSS."
 layout: default
 redirect_from:
   - /projects/estimation-tools-gauss.html

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Projects
+description: "Selected work in product adoption, customer programs, analytics, AI workflows, and technical enablement for complex software products, at IMPLAN and Aptech Systems (GAUSS)."
 ---
 
 # Projects

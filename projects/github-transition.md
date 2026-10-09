@@ -1,5 +1,6 @@
 ---
 title: GAUSS GitHub Transition and Collaboration Hub
+description: "Created the Aptech GitHub organization and modernized public documentation, open-source resources, client collaboration, and technical resource sharing."
 layout: default
 ---
 

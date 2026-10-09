@@ -1,5 +1,6 @@
 ---
 title: GAUSS Online Documentation Hub
+description: "Managed the move from static manuals to a searchable, online-first GAUSS documentation hub with practical examples and AI-assisted documentation workflows."
 layout: default
 ---
 

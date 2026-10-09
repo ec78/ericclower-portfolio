@@ -1,5 +1,6 @@
 ---
 title: Product Launch and GTM Readiness
+description: "Planned, developed, launched, and supported GAUSS add-on products, connecting technical capabilities to customer readiness, GTM support, and post-launch adoption."
 layout: default
 ---
 

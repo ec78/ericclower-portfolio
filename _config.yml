@@ -1,5 +1,7 @@
 title: Eric Clower
 description: Product adoption · Technical enablement · AI workflows · Analytics
+# Used in the homepage browser title ("Eric Clower | <tagline>")
+tagline: Product Adoption, Technical Enablement, AI Workflows & Analytics
 theme: jekyll-theme-slate
 
 plugins:

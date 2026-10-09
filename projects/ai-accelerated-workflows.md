@@ -1,5 +1,6 @@
 ---
 title: AI-Accelerated Workflows
+description: "AI-assisted workflows built at Aptech for documentation drafting, content development, formatting automation, and code examples."
 layout: default
 ---
 

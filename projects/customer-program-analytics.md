@@ -1,5 +1,6 @@
 ---
 title: Customer and Program Analytics
+description: "Using Salesforce and its API to identify customer and account patterns, alongside program KPIs, to inform support content, engagement, onboarding, and Education Services strategy."
 layout: default
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Learning Systems, Documentation, and Measurement
+description: "Content infrastructure that scales: LMS migration, documentation modernization, content governance, and support-deflection resources."
 layout: default
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Professional and Community Programs
+description: "Leading and overseeing IMPLAN in the Classroom and IMPLAN Certified Economist, programs that support professional development, academic and community engagement, and product adoption."
 layout: default
 ---
 

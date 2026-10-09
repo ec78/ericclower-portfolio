@@ -1,5 +1,6 @@
 ---
 title: API Enablement, Technical Demos, and MCP Evaluation
+description: "API demonstrations, developer-oriented enablement, and an evaluation of IMPLAN's MCP server with recommendations on usability, performance, and AI-ready knowledge access."
 layout: default
 ---
 

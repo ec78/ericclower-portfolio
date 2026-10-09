@@ -1,5 +1,6 @@
 ---
 title: Responsible Education for Economic Impact Analysis
+description: "Training, interpretation guidance, and appropriate-use resources that help users apply economic impact models responsibly and communicate results clearly."
 layout: default
 redirect_from:
   - /projects/implan-training.html

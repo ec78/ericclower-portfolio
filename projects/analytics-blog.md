@@ -1,5 +1,6 @@
 ---
 title: GAUSS Data Analytics Blog
+description: "Tutorials, applied guides, and product-focused content that supported customer education, product marketing, and adoption of new GAUSS capabilities."
 layout: default
 ---
 

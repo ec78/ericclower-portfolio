@@ -1,5 +1,6 @@
 ---
 title: Premium Support and Strategic Customer Onboarding
+description: "Owning IMPLAN's ARR-contributing Premium Support program and partnering with account teams to reduce onboarding friction and improve time-to-value for strategic customers."
 layout: default
 ---
 

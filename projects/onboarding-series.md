@@ -1,5 +1,6 @@
 ---
 title: GAUSS Onboarding Video Series
+description: "Led instructional design, scripting, production coordination, and quality control for GAUSS video-based onboarding resources."
 layout: default
 ---
 

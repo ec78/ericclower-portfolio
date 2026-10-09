@@ -1,5 +1,6 @@
 ---
 title: AI-Assisted Support Site Modernization
+description: "Built an AI-assisted workflow with Claude Code to modernize IMPLAN's Support Site for consistency, SEO, AEO, and MCP readiness, with human review, security checks, and cross-functional governance."
 layout: default
 ---
 
