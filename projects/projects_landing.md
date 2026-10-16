@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: "Selected work in product strategy, customer discovery, product adoption, analytics, AI workflows, and technical enablement for complex software products, at IMPLAN and Aptech Systems (GAUSS)."
+description: "Selected work in product strategy, customer discovery, product adoption, analytics, AI workflows, analytical software development, and technical enablement for complex software products, at IMPLAN and Aptech Systems (GAUSS)."
 ---
 
 # Projects
@@ -23,6 +23,16 @@ Selected work in product strategy, customer discovery, product adoption, analyti
 
 - **[Time-Series Product Development and API Design in GAUSS](time-series-gauss.md)**  
   Development, API design, and modernization of advanced time series econometrics tools, including structural VAR, state-space, and nonlinear models.
+
+---
+
+## AI-Assisted Software Development & Developer Experience
+
+- **[From Research Code to Usable Software: Modernizing Analytical Libraries with AI-Assisted Development](analytical-library-development.md)**  
+  Taking research implementations through integration, API design, modernization, validation, documentation, and release for GAUSS libraries including dccelib, QARDL, and QUAIDS, using AI-assisted development with human review.
+
+- **[GAUSS MCP Server — In Development](analytical-library-development.md#in-development-gauss-mcp-server)**  
+  A Model Context Protocol server exploring how AI assistants can work with GAUSS through structured tools, while keeping analysis transparent and technically correct. Not yet publicly released.
 
 ---
 

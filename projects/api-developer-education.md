@@ -67,6 +67,7 @@ My contribution focused on:
 
 ## Related Projects
 
+- [From Research Code to Usable Software: Modernizing Analytical Libraries with AI-Assisted Development](analytical-library-development.md), including a GAUSS MCP server in development
 - [AI-Assisted Support Site Modernization](support-site-modernization.md)
 - [AI Workflow Adoption and Enablement](ai-learning-workflow-enablement.md)
 - [Time-Series Product Development and API Design in GAUSS](time-series-gauss.md)

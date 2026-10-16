@@ -77,6 +77,7 @@ More detail: [AI-Accelerated Workflows](ai-accelerated-workflows.md).
 - [AI-Assisted Support Site Modernization](support-site-modernization.md)
 - [API Enablement, Technical Demos, and MCP Evaluation](api-developer-education.md)
 - [AI-Accelerated Workflows](ai-accelerated-workflows.md)
+- [From Research Code to Usable Software: Modernizing Analytical Libraries with AI-Assisted Development](analytical-library-development.md)
 - [Customer Insight, Onboarding Needs, and Content Strategy](education-strategy-learning-paths.md)
 
 ---

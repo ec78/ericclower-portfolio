@@ -1,16 +1,18 @@
 ---
 title: Eric Clower
 layout: default
-description: I help customers and internal teams get value from complex products faster by connecting onboarding, customer engagement, technical enablement, AI workflows, and analytics with the product and operational strategy behind them.
+description: I help customers, developers, and internal teams get value from complex products faster by connecting onboarding, customer engagement, technical enablement, AI workflows, and analytics with the product and operational strategy behind them.
 ---
 
 # Product strategy, adoption, technical enablement, AI workflows, and analytics for complex software products.
 
-I help customers and internal teams get value from complex products faster by connecting onboarding, customer engagement, technical enablement, AI workflows, and analytics with the product and operational strategy behind them.
+I help customers, developers, and internal teams get value from complex products faster by connecting onboarding, customer engagement, technical enablement, AI workflows, and analytics with the product and operational strategy behind them.
 
 I am currently **Director of Education Services at IMPLAN**, where I lead a four-person team of subject-matter experts. I own IMPLAN's Premium Support program, an ARR-contributing customer program, and work with Key Account Managers and Customer Success Managers to improve onboarding for strategic customers. I use Salesforce and its API to identify customer and account patterns that shape support content, engagement, and program priorities. I built an AI-assisted workflow with Claude Code to support the modernization of IMPLAN's Support Site, designed and launched an internal AI in the Workplace initiative, and lead API demonstrations and technical enablement, including an evaluation of IMPLAN's MCP server. My department is also responsible for internal, external, and revenue-generating customer training, along with the IMPLAN in the Classroom and IMPLAN Certified Economist programs.
 
 Previously, as **Director of Training and Applications at Aptech Systems**, my role extended well beyond training. For GAUSS, a statistical programming and data analysis platform, I participated in customer discovery and annual release planning, helped prioritize features for a lean development team, evaluated APIs and UX, supported product launches including the GAUSS Machine Learning Library, and championed TSPDLIB, Aptech's first actively supported user-developed open-source library. I continue to advise Aptech in a limited consulting capacity on selected GTM, feature, and product strategy decisions.
+
+I also independently develop and maintain analytical software libraries for GAUSS, taking research implementations through modernization, validation, documentation, and release, with AI-assisted development throughout.
 
 ---
 
@@ -18,6 +20,7 @@ Previously, as **Director of Training and Applications at Aptech Systems**, my r
 
 - **Product strategy and customer discovery:** Turn customer interviews, surveys, and competitive research into product requirements and roadmap priorities.
 - **Product evaluation, APIs, and UX:** Evaluate scope, API and syntax design, functionality, output interpretability, and MCP readiness.
+- **Analytical software development and developer experience:** Build, modernize, validate, and document GAUSS libraries, using AI-assisted development with human review.
 - **Product adoption and onboarding:** Reduce friction between purchase and productive use, and help customers reach value sooner.
 - **Customer and program analytics:** Use Salesforce, API-based reporting, and program metrics to find patterns and set priorities.
 - **AI workflow adoption:** Build AI-assisted workflows with human review and governance, and help teams adopt AI in their everyday work.
@@ -85,6 +88,26 @@ Evaluated scope, use cases, competitors, API and syntax design, functionality, a
 
 ---
 
+## AI-Assisted Software Development & Developer Experience
+
+Alongside my product and enablement work, I build and maintain analytical software. The goal isn't just to implement statistical methods; it's to produce reliable, well-documented tools with APIs that technical users can adopt with confidence.
+
+### From Research Code to Usable Software: Modernizing Analytical Libraries with AI-Assisted Development
+
+How I take research implementations through integration, API design, modernization, validation, documentation, and release, using AI-assisted development with human review. Examples include dccelib, whose core estimators match R's `plm` to six decimal places, as well as QARDL and QUAIDS libraries for GAUSS.
+
+[Read the case study ->](projects/analytical-library-development.md)
+
+---
+
+### GAUSS MCP Server — In Development
+
+A Model Context Protocol server exploring how AI assistants can work with GAUSS through structured tools, while keeping analysis transparent, controlled, and technically correct. Not yet publicly released.
+
+[Read the project summary ->](projects/analytical-library-development.md#in-development-gauss-mcp-server)
+
+---
+
 ## Explore more projects
 
 [View all projects ->](projects/projects_landing.md), including AI workflow adoption, customer insight and content strategy, and professional and community programs.
@@ -104,4 +127,5 @@ Evaluated scope, use cases, competitors, API and syntax design, functionality, a
 
 - [LinkedIn](https://www.linkedin.com/in/ericaclower/)
 - [GitHub](https://github.com/ec78)
+- [Medium](https://medium.com/@eclow)
 - [Email](mailto:eric.clower78@gmail.com)
