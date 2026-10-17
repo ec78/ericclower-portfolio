@@ -102,7 +102,7 @@ Selected work in product strategy, customer discovery, product adoption, analyti
 
 These projects show the analytical foundation behind my product and technical work.
 
-- **[Trilemma Index Computation](https://users.ssc.wisc.edu/~mchinn/ACI_Trilemma_s_Oct09.pdf)**  
+- **[Trilemma Index Computation](https://web.pdx.edu/~ito/trilemma_indexes.htm)**  
   Supported academic research by cleaning and integrating international macroeconomic and financial datasets and computing multiple dimensions of the trilemma index using consistent time-series techniques.
 
 - **[Inflation Forecasting with Commodity Price Aggregates](https://www.sciencedirect.com/science/article/abs/pii/S0304407614001547)**  
